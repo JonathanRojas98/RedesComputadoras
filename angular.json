@@ -114,5 +114,8 @@
       }
     }
   },
-  "defaultProject": "redesComp"
+  "defaultProject": "redesComp",
+  "cli": {
+    "analytics": "4641fcf4-244f-4f2c-9f27-d5f9b31d417b"
+  }
 }

@@ -8,7 +8,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "postinstall": "ng build --output-path redes-computadoras --aot --prod"
+    "postinstall": "ng build --output-path angularapp --aot"
   },
   "engines":{
     "node": "v16.13.2",
