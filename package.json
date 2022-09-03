@@ -1,6 +1,6 @@
 {
   "name": "redes-comp",
-  "version": "0.0.0",
+  "version": "16.13.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
